@@ -1,0 +1,4 @@
+Thank you for playing the Ruby Blackjack game.
+Developed by Zachary Miller
+Copyright 2018
+URL: http://www.bellevue.edu
